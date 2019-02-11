@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a;
+double a;
 printf("Enter any number");
 scanf("%d",&a);
 if(a%2==0)
